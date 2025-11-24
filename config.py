@@ -1,0 +1,2 @@
+# Add your OpenAI API Key here
+OPENAI_API_KEY = "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"
